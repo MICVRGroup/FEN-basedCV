@@ -29,7 +29,7 @@
 + k_fold: int, which sets the number of divisions
 
 
-The code address of this paper is http://github.com/MICVRGroup/FEN-basedCV.
+The code address of this paper is https://github.com/MICVRGroup/FEN-basedCV.
 The code address of SLaK is https://github.com/VITA-Group/SLaK.
 The code address of mobilenet is https://github.com/tensorflow/models/blob/master/official/vision/modeling/backbones/mobilenet.py
 The code address of efficientnet_v2 is https://github.com/google/automl/tree/master
